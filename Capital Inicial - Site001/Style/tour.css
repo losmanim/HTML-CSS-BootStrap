@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+#img-logo {
+    border-radius: 30px;
+}
+
+main {
+    background-image: url(../img/venda-abre-amanha-pelo-site-da-eventim-172335_800x450.webp);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    
+}
